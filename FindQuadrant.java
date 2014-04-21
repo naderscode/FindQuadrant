@@ -29,7 +29,7 @@ public class FindQuadrant
 		System.out.println(); // create a blank line, to make the output easier to read.
 		
 		if(x == 0 && y == 0)
-			System.out.println("The point " + "(" + x + "," + y + ")" + " is the origin.");
+			System.out.println("The point " + "(" + x + "," + y + ")" + " is the      origin.");
 
 		else if(x == 0 && y != 0)
 			System.out.println("The point " + "(" + x + "," + y + ")" + " is on the y-axis.");
